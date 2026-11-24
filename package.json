@@ -1,0 +1,1 @@
+{"description":"A single weird job title for the make.fun Blind Judge Showdown, written deterministically to /output/entry.txt.","license":"MIT","main":"main.ts","name":"weirdest-job-title","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
